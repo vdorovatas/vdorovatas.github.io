@@ -45,11 +45,24 @@ layout: default
         {% if page.social %}
           <div class="social">
             <div class="contact-icons">{% social_links %}</div>
-            <div class="contact-note">{{ site.contact_note }}</div>
+            {% if site.contact_note %}
+              <div class="contact-note">{{ site.contact_note }}</div>
+            {% endif %}
           </div>
         {% endif %}
       </div>
     {% endif %}
+
+    <style>
+      /* Shrink + recolor the social icons now that they sit under the (narrower) profile photo
+         instead of spanning the full page width at the bottom. */
+      .profile .social .contact-icons {
+        font-size: 1.6rem;
+      }
+      .profile .social .contact-icons a i::before {
+        color: var(--global-theme-color);
+      }
+    </style>
 
     <div class="clearfix">{{ content }}</div>
 
