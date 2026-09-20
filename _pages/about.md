@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD at NYU
+subtitle: "<strong style=\"font-size: 1.3em;\">PhD at NYU</strong>"
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true # includes social icons below the profile picture (see _layouts/about.liquid override)
 
 announcements:
   enabled: true # includes a list of news items

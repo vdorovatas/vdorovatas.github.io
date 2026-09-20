@@ -6,6 +6,6 @@ github_username: vdorovatas
 linkedin_username: vaggelis-dorovatas-6b04192b7
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: RWTJmjcAAAAJ # your Google Scholar ID
-# cv_pdf: /assets/pdf/your_cv.pdf # uncomment and point at your real CV PDF once you upload one
+cv_pdf: /assets/pdf/cv_vdoro.pdf
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
