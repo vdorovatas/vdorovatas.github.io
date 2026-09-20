@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vdorovatas.github.io/al-folio/sitemap.xml
+Sitemap: https://vdorovatas.github.io/sitemap.xml
