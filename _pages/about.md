@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello🏄! My name is Vaggelis (Evangelos) Dorovatas, and I am a PhD student at the Center for Data Science, advised by Prof. [Pratyusha Sharma](https://cds.nyu.edu/team/4917/).
+Hello🏄! I am a first-year PhD student at the [NYU Center for Data Science](https://cds.nyu.edu), advised by [Pratyusha Sharma](https://cds.nyu.edu/team/4917/).
 
-I received my Diploma in Electrical and Computer Engineering (ECE) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/) in Greece. Prior to my PhD, I worked on neural network architectures at NTUA and the Archimedes Research Center, under the supervision of Prof. [Alexandros Potamianos](https://www.ece.ntua.gr/en/staff/personalPage/potamianos-a). I was also a full-time AI Research Engineer at Toyota, where I conducted research on continual learning and memory with Dr. [Rahaf Aljundi](https://scholar.google.com/citations?user=YLh7yrwAAAAJ&hl=en).
+I received my Diploma in Electrical and Computer Engineering (ECE) from the [National Technical University of Athens (NTUA)](https://www.ntua.gr/) in Greece. Prior to my PhD, I worked on neural network architectures at NTUA and the Archimedes Research Center, under the supervision of [Alexandros Potamianos](https://www.ece.ntua.gr/en/staff/personalPage/potamianos-a). I was also a full-time AI Research Engineer at Toyota, where I conducted research on continual learning and memory with [Rahaf Aljundi](https://scholar.google.com/citations?user=YLh7yrwAAAAJ&hl=en).
 
 In my research, I like to think about representation learning and continual learning in humans and machines.
 
