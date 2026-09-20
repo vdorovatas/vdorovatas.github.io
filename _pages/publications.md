@@ -18,3 +18,5 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+For my full list of publications, check [Google Scholar](https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}&hl=en)!
